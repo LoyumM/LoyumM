@@ -20,9 +20,6 @@ My name is Loyumba, please call me Loyum.
 </div>
 <br><br>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%201%20min-blue)
-
 ## About me:
 
 -  As a dedicated Data Analyst at <b>Credgenics</b>, I specialize in leveraging mathematical, statistical, and analytical concepts to drive insights from complex datasets.
