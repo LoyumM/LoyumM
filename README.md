@@ -32,6 +32,6 @@ My name is Loyumba, please call me Loyum.
 - Actively enhancing proficiency in data structures and algorithms to fortify problem-solving skills.
 - Continuously improving SQL expertise for more robust and efficient data manipulation.
 
-## 🌟 What I am looking forward for at the moment: 
+## 🌟 What I am looking forward to at the moment: 
 
 -  Actively seeking opportunities in data analyst or junior data scientist roles. Excited to contribute my skills and passion for data to innovative projects. Please feel free to reach out to me via email.
