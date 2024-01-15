@@ -28,7 +28,7 @@ My name is Loyumba, please call me Loyum.
 
 ## 🎯 Current Focus:
 
-- Currently working and learning on Machine learning, Natural Language Processing and Computer Vision.
+- Currently working and learning about Machine learning, Natural Language Processing and Computer Vision.
 - Actively enhancing proficiency in data structures and algorithms to fortify problem-solving skills.
 - Continuously improving SQL expertise for more robust and efficient data manipulation.
 
