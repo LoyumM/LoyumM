@@ -3,7 +3,7 @@
 My name is Loyumba, please call me Loyum.
 
 <div align="center">
-    <a href="mailto: lmbmoirangthem033@gmail.com">
+    <a href="mailto: loyumm@gmail.com">
         <img alt="anwarvic | Gmail" width="50px" style="margin-right:20px" src="assets/gmail_2020.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
@@ -22,16 +22,14 @@ My name is Loyumba, please call me Loyum.
 
 ## About me:
 
--  As a dedicated Data Analyst at <b>Credgenics</b>, I specialize in leveraging mathematical, statistical, and analytical concepts to drive insights from complex datasets.
-- Holding a degree in B.Sc (H) Physics from <b>Amity Institute of Applied Sciences, Noida</b>, I bring a unique blend of quantitative skills and a passion for exploring the intersection of mathematicss and data analytics.
-- Eagerly navigating the realms of <b>machine learning</b>, I am committed to continuous learning and staying at the forefront of evolving technologies in the landscape of artificial intelligence.
+- As an AI Analyst at <b>Level AI</b>, I specialize in optimising workflows and building scalable machine learning solutions. Skilled in NLP, deep learning, and data analysis
+- Eagerly navigating the realms of <b>AI and ML</b>, I am committed to continuous learning and staying at the forefront of evolving technologies in the landscape of artificial intelligence.
 
 ## 🎯 Current Focus:
 
-- Currently working and learning about Machine learning, Natural Language Processing and Computer Vision.
+- Currently working and learning about ML and AI.
 - Actively enhancing proficiency in data structures and algorithms to fortify problem-solving skills.
-- Continuously improving SQL expertise for more robust and efficient data manipulation.
 
 ## 🌟 What I am looking forward to at the moment: 
 
--  Actively seeking opportunities in associate data scientist/data scientist roles. Excited to contribute my skills and passion for data to innovative projects. Please feel free to reach out to me via email.
+-  Actively seeking opportunities in data scientist/machine learning engineering roles. Excited to contribute my skills and passion for data to innovative projects. Please feel free to reach out to me via email.
