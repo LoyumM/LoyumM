@@ -32,4 +32,4 @@ My name is Loyumba, please call me Loyum.
 
 ## 🌟 What I am looking forward to at the moment: 
 
--  Actively seeking opportunities in data scientist/machine learning engineering roles. Excited to contribute my skills and passion for data to innovative projects. Please feel free to reach out to me via email.
+-  Actively seeking opportunities in data scientist/machine learning engineering roles. Excited to contribute my skills and passion for data to innovative projects. Feel free to reach out to me via email.
