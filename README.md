@@ -3,7 +3,7 @@
 My name is Loyumba, please call me Loyum.
 
 <div align="center">
-    <a href="mailto: loyumm@gmail.com">
+    <a href="mailto:loyumm@gmail.com">
         <img alt="anwarvic | Gmail" width="50px" style="margin-right:20px" src="assets/gmail_2020.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
