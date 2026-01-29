@@ -15,7 +15,7 @@ My name is Loyumba, please call me Loyum.
         <img alt="anwarvic | HackerRank" width="40px" style="margin-right:20px" src="assets/hackerrank.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/lmbmoirangthem033/">
+    <a href="https://leetcode.com/loyumm/">
         <img alt="anwarvic | LeetCode" width="40px" src="assets/leetcode.png" />
 </div>
 <br><br>
